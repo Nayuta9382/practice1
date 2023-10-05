@@ -1,4 +1,4 @@
-class pra2{
+class public pra2{
 	public static void main (String[] args){
         	int n = 0;
 		while(n<100){
